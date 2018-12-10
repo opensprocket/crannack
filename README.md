@@ -1,2 +1,2 @@
-# crannack
+# Crannack
  Crannack Universe Wiki 
