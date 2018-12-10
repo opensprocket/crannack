@@ -1,5 +1,7 @@
 # Crannack
- Crannack Universe Wiki 
+
+--> [Link to Wiki](https://github.com/opensprocket/crannack/wiki) <--
+
 
 ## Please read the following before contributing:
 
