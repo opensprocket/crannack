@@ -6,5 +6,5 @@
 ## Please read the following before contributing:
 
 - Content Standards
-- Revision Guidlines
+- Revision Guidelines
 - Markdown Formattting
