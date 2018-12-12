@@ -1,7 +1,8 @@
 # Crannack
 
 --> [Link to Wiki](https://github.com/opensprocket/crannack/wiki) <--
-[Species](https://github.com/opensprocket/crannack/species.md)
+
+Species
 
 ## Please read the following before contributing:
 
